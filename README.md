@@ -1,2 +1,1 @@
-# houchangmeng.github.io
-Pages test
+# Pages test
